@@ -3,6 +3,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include=".gitignore" />
+    <None Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="source">
@@ -18,5 +19,8 @@
     <ClInclude Include="source\dllmain.hpp">
       <Filter>source</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Unlicense.txt" />
   </ItemGroup>
 </Project>
