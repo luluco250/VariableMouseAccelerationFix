@@ -175,6 +175,7 @@
     <ClCompile Include="source\dllmain.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
